@@ -21,28 +21,30 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(126, 189, 152, 0.541);
 }
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: rgb(211, 17, 201);
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 4.5em;
   margin-bottom: 0;
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 2.5em;
   margin-top: .5em;
+  
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Helvetica', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: rgb(211, 17, 201);
 }
 
 img {
